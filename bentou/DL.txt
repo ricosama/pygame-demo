@@ -1,0 +1,8 @@
+chapter1
+pachi:speech1
+pachi:speech2
+pachi:speech3
+
+chapter2
+pachi:speech1
+scarlet:speech1
